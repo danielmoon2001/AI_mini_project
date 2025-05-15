@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+tqdm
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+(compatible with Google Colab’s default versions) 
