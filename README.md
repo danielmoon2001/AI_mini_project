@@ -29,7 +29,7 @@ Results are evaluated using global accuracy, class-wise metrics, and confusion m
 
 This project is designed to run in a single pass in Google Colab.
 
-1. Upload `purely_generated_firstTry.ipynb` to Colab
+1. Upload `CIFAR10_experimentation_project.ipynb` to Colab
 2. Run all cells sequentially
 3. Each experiment's results (accuracy + confusion matrix) will be printed
 
@@ -43,8 +43,8 @@ See [`requirements.txt`](./requirements.txt) for all necessary packages.
 
 ## Author
 
-- Created by **[SeongYeon Moon]** for an AI course mini-project (장병탁, 인공지능) 
-- Seoul National University, Spring 2025
+- Created by **SeongYeon Moon** for an AI course mini-project
+- 장병탁, 인공지능, Seoul National University, Spring 2025
 
 ---
 
